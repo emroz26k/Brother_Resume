@@ -1,0 +1,172 @@
+{
+  "profile": {
+    "name": "AFROZ KHATIK",
+    "title": "B.Pharm Graduate | Fresher",
+    "phone": "7841991205",
+    "email": "afrozjaved229@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/afroz-khatik",
+    "location": "Dharashiv, Maharashtra",
+    "thumbnail": "/public/image/thumbnail.jpg",
+    "image": "/images/profile.jpg",
+    "summary": "B.Pharm graduate and fresher with foundational knowledge of Quality Control (QC), Quality Assurance (QA), Research & Development (R&D), and pharmaceutical manufacturing. Familiar with analytical techniques, GMP/GLP, formulation development, documentation, and regulatory requirements. Seeking an entry-level opportunity in the pharmaceutical industry to apply scientific, analytical, and problem-solving skills while developing practical industry expertise."
+  },
+
+  "education": [
+    {
+      "period": "2022 - 2026",
+      "degree": "Bachelor of Pharmacy",
+      "institution": "Dr. Babasaheb Ambedkar Marathwada University",
+      "result": "CGPA: 7.99",
+      "thumbnail": "/images/education-thumb.jpg"
+    },
+    {
+      "period": "2019 - 2020",
+      "degree": "Higher Secondary Board",
+      "institution": "Mohekar Mahavidyalaya, Kalamb",
+      "result": "57.85%",
+      "thumbnail": "/images/education-thumb.jpg"
+    },
+    {
+      "period": "2017 - 2018",
+      "degree": "Secondary School Certificate",
+      "institution": "Vidya Bhavan High School, Kalamb",
+      "result": "74.20%",
+      "thumbnail": "/images/education-thumb.jpg"
+    }
+  ],
+
+  "industrialExperience": [
+    {
+      "title": "Industrial Training",
+      "company": "Astro Pharmaceutical Pvt. Ltd.",
+      "location": "Palghar, Maharashtra",
+      "position": "Industrial Training Trainee",
+      "duration": "26 June 2026 - 25 July 2026",
+      "description": "Completed 1-month industrial training in a pharmaceutical manufacturing environment.",
+      "thumbnail": "/images/industrial-training-thumb.jpg"
+    }
+  ],
+
+  "project": {
+    "title": "AI-Assisted Evaluation and Formulation of Anti-inflammatory Gallic Acid Gel from Terminalia bellirica",
+    "thumbnail": "/images/project-thumb.jpg",
+    "image": "/images/project.jpg",
+    "description": [
+      "Evaluated anti-inflammatory activity, pharmacokinetic properties, and safety using AI-based tools.",
+      "Used PubChem, SwissADME, and pkCSM for analysis.",
+      "Determined molecular characteristics and optimized topical gel formulation using Design of Experiments (DoE)."
+    ],
+    "tools": [
+      "PubChem",
+      "SwissADME",
+      "pkCSM",
+      "Design of Experiments (DoE)"
+    ]
+  },
+
+  "certifications": [
+    {
+      "name": "Good Clinical Practice",
+      "organization": "NIDA CTN",
+      "thumbnail": "/images/certificates/gcp-thumb.jpg",
+      "image": "/images/certificates/gcp.jpg"
+    },
+    {
+      "name": "Intellectual Property Rights",
+      "organization": "IIER",
+      "thumbnail": "/images/certificates/ipr-thumb.jpg",
+      "image": "/images/certificates/ipr.jpg"
+    },
+    {
+      "name": "Drug Regulatory Affairs",
+      "organization": "IIER",
+      "thumbnail": "/images/certificates/dra-thumb.jpg",
+      "image": "/images/certificates/dra.jpg"
+    },
+    {
+      "name": "Clinical Research",
+      "organization": "IIER",
+      "thumbnail": "/images/certificates/clinical-research-thumb.jpg",
+      "image": "/images/certificates/clinical-research.jpg"
+    },
+    {
+      "name": "Pharmacovigilance",
+      "organization": "IIER",
+      "thumbnail": "/images/certificates/pharmacovigilance-thumb.jpg",
+      "image": "/images/certificates/pharmacovigilance.jpg"
+    },
+    {
+      "name": "Scientific Writing in Health Research",
+      "organization": "ICMR",
+      "thumbnail": "/images/certificates/scientific-writing-thumb.jpg",
+      "image": "/images/certificates/scientific-writing.jpg"
+    },
+    {
+      "name": "Barclays LifeSkills Program",
+      "organization": "GTT Foundation",
+      "thumbnail": "/images/certificates/barclays-thumb.jpg",
+      "image": "/images/certificates/barclays.jpg"
+    }
+  ],
+
+  "academicActivities": [
+    "Participated in seminar on AI in Pharmaceutical Education & Research",
+    "Attended ISPE webinar on water circularity and regulatory challenges (April 2026)",
+    "Presented seminar on Universal Immunization Programme (UIP)",
+    "Self-learned and applied tools like SwissADME and pkCSM for drug analysis"
+  ],
+
+  "technicalSkills": {
+    "analyticalTechniques": [
+      "HPLC",
+      "UV-Visible Spectroscopy",
+      "GC (Basic Knowledge)"
+    ],
+    "laboratory": [
+      "Sampling",
+      "Calibration"
+    ],
+    "quality": [
+      "GMP",
+      "GLP",
+      "SOP Handling"
+    ],
+    "documentation": [
+      "Documentation",
+      "Validation Practices"
+    ],
+    "regulatory": [
+      "US FDA",
+      "EMA",
+      "CDSCO Guidelines"
+    ],
+    "pharmaceutical": [
+      "Pre-formulation Studies",
+      "Drug-Excipient Compatibility"
+    ],
+    "clinical": [
+      "Clinical Research",
+      "Pharmacovigilance"
+    ],
+    "software": [
+      "MS Word",
+      "MS PowerPoint"
+    ]
+  },
+
+  "softSkills": [
+    "Effective Communication",
+    "Team Collaboration and Coordination",
+    "Problem-solving and Analytical Thinking",
+    "Adaptability and Quick Learning Ability"
+  ],
+
+  "strengths": [
+    "Confident and disciplined work approach",
+    "Scientific curiosity and research interest",
+    "Quality-oriented mindset",
+    "Ability to learn and apply new concepts quickly"
+  ],
+
+  "declaration": "I hereby declare that the information provided above is true, complete, & accurate to the best of my knowledge. I take full responsibility for the authenticity of the details mentioned."
+}

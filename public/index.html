@@ -1,21 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume</title>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYjWwRcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous">
-    </script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.css">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/src/css/style.css">
+
+  
 </head>
-<body>
-    
+<body onload="bodyload()" class="container-fluid m-0">
 
-    <script src="/src/js/script.js"></script>
-    <link rel="stylesheet" href="/src/css/style.css">
+  <header>
+    <nav class="navbar navbar-expand-lg  fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="#">My Resume</a>
+        <ul class="navbar-nav ms-auto  ">
+          <li class="nav-item"><a class="nav-link active" href="#home">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="#profile">Profile</a></li>
+          <li class="nav-item"><a class="nav-link" href="#education">Education</a></li>
+          <li class="nav-item"><a class="nav-link" href="#experience">Experience</a></li>
+          <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
+          <li class="nav-item"><a class="nav-link" href="#certification">Certification</a></li>
+          <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+
+  <main>
+    <section id="home">
+        <div class="home-content">
+            <img id="profileImg" class="card-img-top rounded-circle border-2">
+            
+                <div id="name"></div>
+
+          
+            <div  id="homeCardBody">
+
+            </div>
+            <div id="homeCardFooter">
+
+            </div>
+        </div>
+        
+    </section>
+    <section id="profile"><h1>Profile</h1></section>
+    <section id="education"><h1>Education</h1></section>
+    <section id="experience"><h1>Experience</h1></section>
+    <section id="projects"><h1>Projects</h1></section>
+    <section id="certification"><h1>Certification</h1></section>
+    <section id="contact"><h1>Contact</h1></section>
+  </main>
+
+  <!-- Bootstrap JS Bundle (no integrity for dev) -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Your custom JS -->
+  <script src="/src/js/script.js"></script>
 </body>
 </html>
