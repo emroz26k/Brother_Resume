@@ -9,7 +9,7 @@ function bodyload() {
 }
 
 function homeLoad() {
-    fetch("/api/resume.json")
+    fetch("/resume.json")
         .then(function (response) {
             return response.json();
         })
@@ -35,7 +35,7 @@ function homeLoad() {
         })
 }
 function profileLoad() {
-    fetch("/api/resume.json")
+    fetch("/resume.json")
         .then(function (response) {
             return response.json();
         })
@@ -53,7 +53,7 @@ function profileLoad() {
 
 }
 function education_and_skills() {
-    fetch("/api/resume.json")
+    fetch("/resume.json")
         .then(function (response) {
             return response.json();
         })
@@ -177,7 +177,7 @@ function education_and_skills() {
 }
 
 function experience() {
-    fetch("/api/resume.json")
+    fetch("/resume.json")
         .then(function (response) {
             return response.json();
         })
@@ -206,7 +206,7 @@ function experience() {
 }
 
 function projects() {
-    fetch("/api/resume.json")
+    fetch("/resume.json")
         .then(function (response) {
             return response.json();
 
@@ -256,7 +256,7 @@ function projects() {
 }
 
 function certificate_learning() {
-    fetch("/api/resume.json")
+    fetch("/resume.json")
         .then(function (response) {
             return response.json();
         })
@@ -273,8 +273,6 @@ function certificate_learning() {
                         </div>       
                     </div>           
              `;
-
-                document.getElementById("certification").appendChild(div);
               data.certifications.map(function(item){
            let div= document.createElement("div");
            div.innerHTML=`
