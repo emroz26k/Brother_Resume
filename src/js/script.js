@@ -279,7 +279,7 @@ function certificate_learning() {
             <div class="col-4">
                 <h2>${item.name}</h2>
                 <span>
-                    <img class="border border-1 rounded rounded-2 w-25 h-25 border-primary" src="${item.thumbnail}">
+                    <img class="border border-1 rounded rounded-1 w-25 h-25 border-primary" src="${item.thumbnail}">
 
                 </span>
                 <b>${item.organization}</b>
